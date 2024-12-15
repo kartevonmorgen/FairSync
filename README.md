@@ -1,10 +1,6 @@
-# scrum
-Internal Boards and Issues for process and scrum oriented topics
+# FairSync - Syncronising Maps with sustainable and fair Places
 
-#### Storypoint System:
-
-        100 -> one sprint of two weeks
-        50 -> one week
-        10 -> one day
-        1 -> less than one houer
-more updates here: https://wechange.de/project/team-von-morgen/document/scrum-team/
+In 2024 we developed a tool to connect Databasis of sustainability-maps.
+- Check our updates: https://wechange.de/project/fairsync/
+- See the development process: https://github.com/orgs/kartevonmorgen/projects/23/
+- Code currently under https://codeberg.org/slowtec/fairsync
